@@ -1,0 +1,17 @@
+{
+  "name": "rollup-go-pug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rollup -c -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pug": "^3.0.2",
+    "rollup": "^2.79.1",
+    "sass": "^1.55.0"
+  }
+}
